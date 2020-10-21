@@ -1,9 +1,4 @@
 
-terraform {
-  # Версия terraform
-  required_version = ">=0.12.0"
-}
-
 # Настройка провайдера для подключения к vCloud Director
 provider "vcd" {
   version              = "~> 2.6"
