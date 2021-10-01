@@ -4,7 +4,7 @@ variable "vcd_org_user" {
 }
 
 variable "vcd_org_password" {
-  default     = "OYX^GLuw3!Dr"
+  default     = "A$KN.U7kkKrga45P"
   description = "vCD Tenant Password"
 }
 
@@ -40,7 +40,7 @@ variable "vcd_org_edge_name" {
 
 variable "vcd_org_catalog" {
   description = "vCD Catalog Name"
-  default = "catalog_name"
+  default = "NORD1"
 }
 
 variable "template_vm" {
